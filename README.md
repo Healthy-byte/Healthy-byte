@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Healthy-byte
-- 👀 I’m interested in coding projects
-- 🌱 I’m currently learning Python
+- 👋 Cyber security student
+- 👀 
+- 🌱 
 - 📫 Send a message to get in contact 
 
 <!---
