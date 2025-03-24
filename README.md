@@ -1,4 +1,4 @@
-- 👋 Cyber security student
+- 👋 Cyber security Engineer
 - 👀 
 - 🌱 
 - 📫 Send a message to get in contact 
